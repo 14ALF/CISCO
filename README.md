@@ -24,9 +24,9 @@ This career path includes:
 
 Skills achievable:
 
-- Networking Basics	Learn how LANs, WANs, and network protocols work
-- Device Configuration	Understand routers, switches, and how to connect devices
-- Troubleshooting	Diagnose and resolve basic network issues
-- Support Skills	Help desk best practices and customer‑focused support
+- Networking Basics	learn how LANs, WANs, and network protocols work
+- Device Configuration understanding routers, switches, and how to connect devices
+- Troubleshooting	diagnose and resolve basic network issues
+- Support skills help desk best practices and customer‑focused support
 
 Successful completion of this career path and related exam (100‑150 CCST Networking), will earn the Cisco Certified Support Technician (CCST) Networking certification — a recognized credential for entry‑level networking professionals.
