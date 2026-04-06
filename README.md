@@ -2,9 +2,9 @@
 
 The Network Technician Career Path is a structured learning program designed by Cisco Networking Academy to give the foundational networking skills needed to start a career in IT support and network operations. The curriculum prepares for the Cisco Certified Support Technician (CCST) Networking certification and entry‑level roles such as:
 
-Network Support Technician
-Entry‑level Help Desk Technician
-IT Support Specialist
+- Network Support Technician
+- Entry‑level Help Desk Technician
+- IT Support Specialist
 
 This career path is ideal for beginners with little to no prior experience seeking a solid grounding in how computer networks operate and troubleshooting basics.
 
