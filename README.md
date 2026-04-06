@@ -20,7 +20,7 @@ This career path includes:
 - Digital badges to validate your learning progress
 - Preparation for the CCST Networking exam
 
-*  Certification alignment: Cisco Certified Support Technician (CCST) Networking
+* Certification alignment: Cisco Certified Support Technician (CCST) Networking
 
 Skills achievable:
 
